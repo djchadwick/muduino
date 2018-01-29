@@ -1,2 +1,2 @@
-# muduino
-Public µduino Information
+# µduino
+
